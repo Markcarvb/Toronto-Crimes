@@ -1,0 +1,30 @@
+crimes em toronto -----
+-----------------------
+
+insights possiveis+-
+
+
+quantidade de reportes CHECK
+
+frequencia de reporte por ano e 
+periodo mensal CHECK
+
+local da ocorrencia Check 
+
+tipo de ocorrencia CHECK
+
+crimes por dia da semana
+
+ 
+
+- -- -- - - - - -- - -
+Qual o tipo de crime mais comum?
+
+Em que mês/ano houve mais crimes?
+
+Há aumento de crimes ao longo dos anos?
+
+Quais bairros têm mais crimes?
+
+Crimes por dia da semana?
+
